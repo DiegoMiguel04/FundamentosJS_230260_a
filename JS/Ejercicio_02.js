@@ -59,3 +59,4 @@ console.log(`Tu nuevo saldo es de: ${saldo_cuenta}`);
 // El cliente realiza un abono de 1500
 monto_transaccion = 1500;
 console.log(`Tu abono de: ${monto_transaccion} ha sido recibido, tu nuevo saldo es de: ${(saldo_cuenta+monto_transaccion)}`);
+
